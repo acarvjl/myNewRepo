@@ -1,6 +1,7 @@
 # ChapterThree.py
 #
 # Programmer name: Adrian Carvajal
+#
 # Date: 8/14/2023
 #
 # This python program demonstrates the Python programming concepts in Cengage module (chapter) three.
