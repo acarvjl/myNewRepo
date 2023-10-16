@@ -2,4 +2,7 @@ Juan jose
 Emily Phil
 Hank Rolls
 Canban Hinks
+<<<<<<< HEAD
 Tombri tamar
+=======
+>>>>>>> cecf3fb6ded9b1846336788fb1497b5a5f2d038e
